@@ -1,5 +1,3 @@
-package lab4c;
-
 public class cs123 {
 
 	public static void main(String[] args) {
